@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=TanatornZ&theme=shades-of-purple&show_icons=true&locale=en" alt="jergun" />
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatornZ&langs_count=10&layout=compact&theme=shades-of-purple" alt="jergun" />
+
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatornZ&langs_count=10&layout=compact&theme=shades-of-purple" alt="most langues" />
 </p>
 
 <div align="center">
