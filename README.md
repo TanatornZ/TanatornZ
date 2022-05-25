@@ -1,11 +1,9 @@
 <div align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatornZ&langs_count=10" alt="most langues" />
   
   <a href="https://github-readme-streak-stats.herokuapp.com?user=TanatornZ"><img src="https://github-readme-streak-stats.herokuapp.com?user=TanatornZ"/></a> 
   
-  
-  
+
 </div>
 <!--
 **TanatornZ/TanatornZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
