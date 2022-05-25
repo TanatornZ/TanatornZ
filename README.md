@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github
 
+
+- 🌱 I’m currently learning front-end developer 
 <!--
 **TanatornZ/TanatornZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
