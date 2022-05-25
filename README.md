@@ -6,7 +6,7 @@
 
 
 <p align="center"  >
-  <img https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical />
+  <img align="center" height="180" https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical />
 </p>
 
 <p align="center">
