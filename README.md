@@ -5,10 +5,7 @@
 - 🌱 I’m currently learning front-end developer 
 
 
-<p align="center"  >
-  <img align="center" height="180" https://github-readme-stats.vercel.app/api?username=TanatornZ&show_icons=true&theme=radical />
-</p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanatornZ&show_icons=true&theme=radical)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
