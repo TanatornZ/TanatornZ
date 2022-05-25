@@ -6,7 +6,7 @@
 
 <a href="https://github-readme-streak-stats.herokuapp.com?user=TanatornZ&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&background=2D2A54"><img src="https://github-readme-streak-stats.herokuapp.com?user=TanatornZ&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&background=2D2A54"/></a>
   
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatornZ&langs_count=10&layout=compact&theme=shades-of-purple" alt="most langues" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatornZ&langs_count=10&theme=shades-of-purple" alt="most langues" />
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </div>
 <!--
