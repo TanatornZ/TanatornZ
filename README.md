@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my Github
 
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fanime%2Fpage%2Fblog%2Fwhich-side-of-pikachu-is-better%2F08tk_uj0708xjXvaDjBowwEBPbLQmj&psig=AOvVaw0qBAenZlmaMdD77rTqT6JB&ust=1653536246378000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiCgNfc-fcCFQAAAAAdAAAAABAJ)
+![Alt Text](https://pa1.narvii.com/6237/b28af289d54aed98472e48c81d67e99ffce73535_hq.gif)
 
 - 🌱 I’m currently learning front-end developer 
 <!--
