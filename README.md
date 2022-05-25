@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github
+# Hi there 👋 Welcome to my Github
 
 
 - 🌱 I’m currently learning front-end developer 
