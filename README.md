@@ -1,5 +1,6 @@
 # Hi there 👋 Welcome to my Github
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 - 🌱 I’m currently learning front-end developer 
 <!--
