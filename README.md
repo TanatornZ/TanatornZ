@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning front-end developer 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanatornZ)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
