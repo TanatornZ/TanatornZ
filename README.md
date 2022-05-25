@@ -1,12 +1,10 @@
 <div align="center">
   
-  # Hi there 👋 Welcome to my Github
-  
-  ![Alt Text](https://pa1.narvii.com/6237/b28af289d54aed98472e48c81d67e99ffce73535_hq.gif)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatornZ&langs_count=10" alt="most langues" />
   
   <a href="https://github-readme-streak-stats.herokuapp.com?user=TanatornZ"><img src="https://github-readme-streak-stats.herokuapp.com?user=TanatornZ"/></a> 
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanatornZ&langs_count=10" alt="most langues" />
+  
   
 </div>
 <!--
