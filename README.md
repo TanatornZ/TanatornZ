@@ -19,5 +19,5 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... -->
 
   
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanatornz&langs_count=10&layout=compact" alt="jergun" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanatornz&langs_count=10&layout=compact&show_icons=true&theme=dark" alt="jergun" />
 </div>
