@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
   
 <!-- <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" style="width:100%;height:600px;object-fit:cover;" /> -->
   
@@ -10,7 +10,7 @@
 Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
-#Hi I'm tanatorn Intaphong 
+*Hi I'm tanatorn Intaphong 
 
 - 🌱 I’m currently learning front-end developer and flutter 
 
