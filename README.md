@@ -10,7 +10,7 @@
 Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... -->
-## Hi I'm Tanatorn Intaphong 
+# Hi I'm Tanatorn Intaphong 
 
 - 🌱 I’m currently learning front-end developer and flutter 
 - 🔭 I’m currently studying in Software Engineering at University of Phayao.
