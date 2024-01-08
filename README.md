@@ -14,6 +14,10 @@
   natural 🌥️
     
   book 📚
+
+  people 🫂
+
+  software 💻
    
   </div>
   
