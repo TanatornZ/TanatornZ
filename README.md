@@ -17,7 +17,7 @@
 
   people 🫂
 
-  software 💻
+  coding 💻
    
   </div>
   
