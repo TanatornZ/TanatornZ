@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1 > I'm Tanatorn Intaphong 🔥</h1>
+  <h1 > Rock Never Die 🔥</h1>
   <img src="https://media.giphy.com/media/gui67fZ3xIneM/giphy.gif" width="300"/>
   
 
