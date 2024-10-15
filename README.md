@@ -1,23 +1,13 @@
 
 <div id="header" align="center">
-  <h1 > Rock Never Die 🔥</h1>
+  <h1 > Hello Guy 👋🏻 </h1>
   <img src="https://media.giphy.com/media/gui67fZ3xIneM/giphy.gif" width="300"/>
   
 
   <div width="200"> 
   &nbsp;
     
-  I'm practicing to be the best version of myself ✌🏻
-
-  rock music 🎸
-    
-  natural 🌥️
-    
-  book 📚
-
-  people 🫂
-
-  coding 💻
+  I'm practicing to be the best version of myself ❤️‍🔥
    
   </div>
   
