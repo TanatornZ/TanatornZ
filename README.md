@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-  <h1 > Hello Guy 👋🏻 </h1>
+  <h1 > Hello Friend 👋🏻 </h1>
+  <h2 > I'am Tanatorn 🤘🏻 </h2>
   <img src="https://media.giphy.com/media/gui67fZ3xIneM/giphy.gif" width="300"/>
-  
 
   <div width="200"> 
   &nbsp;
