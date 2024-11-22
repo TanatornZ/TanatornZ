@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1> Sa-wad-dee kub 🙏🏻 🤘🏻 ❤️‍🔥</h1>
+  <h1> Sa-wad-dee krabbb 🙏🏻 🤘🏻 ❤️‍🔥</h1>
   <img src="https://media.giphy.com/media/gui67fZ3xIneM/giphy.gif" width="300"/>
 
   <div width="200"> 
