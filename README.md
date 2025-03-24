@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <h1> Sa-wad-dee krabbb 🙏🏻 🇹🇭</h1>
   <p>I'm practicing to be a better software engineer than yesterday.</p>
-  <p>I wish to use my skills to help us create a better life.</p>
+  <p>I wish to use my skills to help us create a the dream.</p>
   <p>t r y i t m y b e s t . 🤘🏻 ❤️‍🔥</p>
   <img src="https://media.giphy.com/media/gui67fZ3xIneM/giphy.gif" width="300"/>
   <div width="200"> 
