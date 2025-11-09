@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <h1> Hello ⚡️ (สวัสดีครับ 🙏 TH) </h1>
+  <h1> What's up ⚡️ (สวัสดีครับ 🙏 TH) </h1>
   <p>Road to Becoming Better Software Engineer</p>
   <p>Better than yesterday — one percent at a time.</p>
   <p>I aspire to use my skills to help turn our shared vision into reality.</p>
